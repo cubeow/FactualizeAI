@@ -1,3 +1,4 @@
+# used to test, you have to input the output of the main_iter_7.py
 import json
 import math
 from openpyxl import load_workbook
